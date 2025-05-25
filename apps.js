@@ -1,4 +1,5 @@
-const images = ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg']
+const images = ['1.JPG', '2.JPG', '3.JPG', '4.JPG', '5.JPG']
+let i = 1;
 
 const targetImage = document.querySelector ('.avatar img');
 
